@@ -1,11 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 1: August 13, 2018
-##### ReactJS
 
-**Today's Progress**:
+**Today's Progress**: Reviewing ES6 syntax and how it's used in ReactJS
 
-**Thoughts:** 
-
-**Link to work:**
-
+**Thoughts:** hello React, it's been a while..
