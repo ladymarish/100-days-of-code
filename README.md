@@ -4,4 +4,11 @@
 
 **Today's Progress**: Reviewing ES6 classes in ReactJS
 
-**Thoughts:** hello React, it's been a while..
+**Thoughts:** hello React, it's been a while.. 
+
+
+### Day 2: August 14, 2018
+
+**Today's Progress**: ReactJS components
+
+**Thoughts:** 
