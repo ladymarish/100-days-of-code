@@ -12,3 +12,17 @@
 **Today's Progress**: ReactJS components
 
 **Thoughts:** 
+
+
+### Day 3: August 15, 2018
+
+**Today's Progress**: ReactJS Events and Methods
+
+**Thoughts:** 
+
+
+### Day 3: August 16, 2018
+
+**Today's Progress**: ReactJS adding State
+
+**Thoughts:** 
