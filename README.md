@@ -7,3 +7,7 @@
 ### Day 1: January 11, 2019
 
 **Today's Progress**: Reviewing Javascript booleans
+
+### Day 1: January 12, 2019
+
+**Today's Progress**: Reviewing Javascript functions
