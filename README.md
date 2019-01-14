@@ -15,3 +15,7 @@
 ### Day 4: January 13, 2019
 
 **Today's Progress**: Reviewing Javascript objects
+
+### Day 5: January 14, 2019
+
+**Today's Progress**: Reviewing Javascript loops and iteration
