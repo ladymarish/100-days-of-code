@@ -19,3 +19,7 @@
 ### Day 5: January 14, 2019
 
 **Today's Progress**: Reviewing Javascript loops and iteration
+
+### Day 6: January 15, 2019
+
+**Today's Progress**: Javascript exercises!
