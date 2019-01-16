@@ -23,3 +23,7 @@
 ### Day 6: January 15, 2019
 
 **Today's Progress**: Javascript exercises!
+
+### Day 6: January 16, 2019
+
+**Today's Progress**: more JS reviewing stuff
