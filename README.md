@@ -26,4 +26,4 @@
 
 ### Day 6: January 16, 2019
 
-**Today's Progress**: more JS reviewing stuff
+**Today's Progress**: Rewiewing DOM manipulation
