@@ -30,7 +30,7 @@
 
 ### Day 8: January 17, 2019
 
-**Today's Progress**: Day off
+**Today's Progress**: DOM manipulation exercise
 
 ### Day 9: January 18, 2019
 
