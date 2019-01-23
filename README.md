@@ -22,7 +22,7 @@
 
 ### Day 6: January 15, 2019
 
-**Today's Progress**: Javascript exercises!
+**Today's Progress**: Javascript exercise! (reviewing basics)
 
 ### Day 7: January 16, 2019
 
@@ -42,11 +42,11 @@
 
 ### Day 11: January 20, 2019
 
-**Today's Progress**: "Hold Function" and DRY principle
+**Today's Progress**: "Hold Function" and DRY principle (game)
 
 ### Day 7: January 21, 2019
 
-**Today's Progress**: Finishing touches and code challenge!! 
+**Today's Progress**: Finishing touches and coding challenge!! 
 
 ### Day 12: January 22, 2019
 
