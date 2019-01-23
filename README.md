@@ -30,23 +30,23 @@
 
 ### Day 8: January 17, 2019
 
-**Today's Progress**: DOM manipulation exercise
+**Today's Progress**: DOM manipulation exercise (game)
 
 ### Day 9: January 18, 2019
 
-**Today's Progress**: Day off
+**Today's Progress**: Events and Event hangling (game)
 
 ### Day 10: January 19, 2019
 
-**Today's Progress**: Day off
+**Today's Progress**: Updating Scores (game)
 
 ### Day 11: January 20, 2019
 
-**Today's Progress**: Day off
+**Today's Progress**: "Hold Function" and DRY principle
 
 ### Day 7: January 21, 2019
 
-**Today's Progress**: Day off
+**Today's Progress**: Finishing touches and code challenge!! 
 
 ### Day 12: January 22, 2019
 
