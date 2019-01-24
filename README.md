@@ -55,3 +55,7 @@
 ### Day 13: January 23, 2019
 
 **Today's Progress**: Attended meetup "Modern Web - Developing With JS" speaker guest John Papas 
+
+### Day 13: January 24, 2019
+
+**Today's Progress**: Catching up with my wordpress projects
