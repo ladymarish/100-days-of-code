@@ -54,8 +54,26 @@
 
 ### Day 13: January 23, 2019
 
-**Today's Progress**: Attended meetup "Modern Web - Developing With JS" speaker guest John Papas 
+**Today's Progress**: Meetup "Modern Web - Developing With JS" speaker guest John Papas 
 
-### Day 13: January 24, 2019
+### Day 14: January 24, 2019
 
 **Today's Progress**: Catching up with my wordpress projects
+
+### Day 15: January 25, 2019
+
+**Today's Progress**: Advanced JS Objects/Functions
+
+### Day 16: January 26, 2019
+
+**Today's Progress**: Advanced JS Objects/Functions (cont)
+
+### Day 17: January 27, 2019
+
+**Today's Progress**: GoDaddy and hosting migration >.<
+
+### Day 18: January 28, 2019
+
+**Today's Progress**: Meetup + Figma + Group Projects
+
+
