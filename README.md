@@ -14,7 +14,7 @@
 
 ### Day 4: June 28, 2019
 
-**Today's Progress**:
+**Today's Progress**: SASS Intro
 
 
 
