@@ -8,6 +8,13 @@
 
 **Today's Progress**: CSS Architecture and Components
 
+### Day 1: June 27, 2019
+
+**Today's Progress**: CSS BEM and 7/1 stuctures
+
+### Day 1: June 28, 2019
+
+**Today's Progress**:
 
 
 
