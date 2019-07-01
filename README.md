@@ -18,6 +18,10 @@
 
 ### Day 5: June 29, 2019
 
+**Today's Progress**: SASS Variables and Nesting
+
+### Day 6: June 30, 2019
+
 **Today's Progress**: SASS Mixins, Extends, Functions
 
 
