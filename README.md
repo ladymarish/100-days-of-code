@@ -16,6 +16,10 @@
 
 **Today's Progress**: SASS Intro
 
+### Day 5: June 29, 2019
+
+**Today's Progress**: SASS Mixins, Extends, Functions
+
 
 
 
