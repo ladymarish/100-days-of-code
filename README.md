@@ -24,6 +24,10 @@
 
 **Today's Progress**: SASS Mixins, Extends, Functions
 
+### Day 7: July 1, 2019
+
+**Today's Progress**: Installed SASS locally
+
 
 
 
