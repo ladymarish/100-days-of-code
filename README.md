@@ -28,6 +28,25 @@
 
 **Today's Progress**: Installed SASS locally
 
+### Day 8: July 2, 2019
+
+**Today's Progress**: 
+
+### Day 8: July 3, 2019
+
+**Today's Progress**: 
+
+### July 4, 2019 - HOLIDAY
+
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+
+
+### Day 8: July 5, 2019 - HOLIDAY
+
+
+
+
+
 
 
 
