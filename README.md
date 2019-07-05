@@ -30,7 +30,7 @@
 
 ### Day 8: July 2, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Write and compile SASS locally
 
 ### Day 8: July 3, 2019
 
