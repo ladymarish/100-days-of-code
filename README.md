@@ -34,7 +34,7 @@
 
 ### Day 8: July 3, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Converting CSS to SASS
 
 ### Day 9: July 5, 2019
 
