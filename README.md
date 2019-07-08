@@ -46,11 +46,11 @@
 
 ### Day 12: July 7, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Building with SASS
 
 ### Day 13: July 8, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Building with SASS and grid
 
 
 
