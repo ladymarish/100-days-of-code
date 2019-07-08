@@ -32,13 +32,25 @@
 
 **Today's Progress**: Write and compile SASS locally
 
-### Day 8: July 3, 2019
+### Day 9: July 3, 2019
 
 **Today's Progress**: Converting CSS to SASS
 
-### Day 9: July 5, 2019
+### Day 10: July 5, 2019
 
-**Today's Progress**:
+**Today's Progress**: Building custom grid with SASS
+
+### Day 11: July 6, 2019
+
+**Today's Progress**: Applying the new skills to my personal projects
+
+### Day 12: July 7, 2019
+
+**Today's Progress**: 
+
+### Day 13: July 8, 2019
+
+**Today's Progress**: 
 
 
 
