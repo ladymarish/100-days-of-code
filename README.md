@@ -52,6 +52,14 @@
 
 **Today's Progress**: Building with SASS and grid
 
+### Day 14: July 9, 2019
+
+**Today's Progress**: Building with SASS
+
+### Day 15: July 10, 2019
+
+**Today's Progress**: Building with SASS
+
 
 
 
