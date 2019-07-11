@@ -60,6 +60,10 @@
 
 **Today's Progress**: Building with SASS
 
+### Day 16: July 11, 2019
+
+**Today's Progress**: Building with SASS
+
 
 
 
