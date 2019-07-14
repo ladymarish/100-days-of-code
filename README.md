@@ -72,7 +72,7 @@
 
 **Today's Progress**: Just more SASS and advanced CSS stuff
 
-### Day 19: July 13, 2019
+### Day 19: July 14, 2019
 
 **Today's Progress**: Just more SASS and advanced CSS stuff
 
