@@ -64,6 +64,18 @@
 
 **Today's Progress**: Building with SASS
 
+### Day 17: July 12, 2019
+
+**Today's Progress**: Just more SASS and advanced CSS stuff
+
+### Day 18: July 13, 2019
+
+**Today's Progress**: Just more SASS and advanced CSS stuff
+
+### Day 19: July 13, 2019
+
+**Today's Progress**: Just more SASS and advanced CSS stuff
+
 
 
 
