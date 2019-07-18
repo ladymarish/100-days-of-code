@@ -76,6 +76,22 @@
 
 **Today's Progress**: Just more SASS and advanced CSS stuff
 
+### Day 20: July 15, 2019
+
+**Today's Progress**: Building footer in SASS
+
+### Day 21: July 16, 2019
+
+**Today's Progress**: Pure SASS navigation
+
+### Day 22: July 17, 2019
+
+**Today's Progress**: Pure SASS popup
+
+### Day 23: July 18, 2019
+
+**Today's Progress**: Hands on practice of the learned material
+
 
 
 
