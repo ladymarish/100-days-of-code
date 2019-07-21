@@ -92,6 +92,14 @@
 
 **Today's Progress**: Hands on practice of the learned material
 
+### Day 24: July 19, 2019
+
+**Today's Progress**: Media queries with SASS mixins
+
+### Day 25: July 20, 2019
+
+**Today's Progress**: Responsive images
+
 
 
 
