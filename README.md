@@ -98,6 +98,10 @@
 
 ### Day 25: July 20, 2019
 
+**Today's Progress**: Applying mixins to current design
+
+### Day 26: July 21, 2019
+
 **Today's Progress**: Responsive images
 
 
