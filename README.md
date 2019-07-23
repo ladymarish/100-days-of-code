@@ -104,6 +104,10 @@
 
 **Today's Progress**: Responsive images
 
+### Day 27: July 22, 2019
+
+**Today's Progress**: Different techniques of making images responsive
+
 
 
 
