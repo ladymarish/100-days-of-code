@@ -118,7 +118,7 @@
 
 ### Day 30: July 25, 2019
 
-**Today's Progress**: Responsive Images in CSS
+**Today's Progress**: Browser Support @supports
 
 
 
