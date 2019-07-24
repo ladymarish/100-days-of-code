@@ -114,7 +114,11 @@
 
 ### Day 29: July 24, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Responsive Images in CSS
+
+### Day 30: July 25, 2019
+
+**Today's Progress**: Responsive Images in CSS
 
 
 
