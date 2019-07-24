@@ -106,7 +106,15 @@
 
 ### Day 27: July 22, 2019
 
-**Today's Progress**: Different techniques of making images responsive
+**Today's Progress**: Image Density and Art Direction
+
+### Day 28: July 23, 2019
+
+**Today's Progress**: Image Density and Resolution switching
+
+### Day 29: July 24, 2019
+
+**Today's Progress**: 
 
 
 
