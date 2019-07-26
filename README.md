@@ -120,6 +120,10 @@
 
 **Today's Progress**: Browser Support @supports
 
+### Day 31: July 26, 2019
+
+**Today's Progress**: Starting with Flexbox
+
 
 
 
