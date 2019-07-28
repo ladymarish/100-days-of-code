@@ -122,7 +122,15 @@
 
 ### Day 31: July 26, 2019
 
-**Today's Progress**: Starting with Flexbox
+**Today's Progress**: Intro to Flexbox
+
+### Day 32: July 27, 2019
+
+**Today's Progress**: Starting a project with Flexbox
+
+### Day 33: July 28, 2019
+
+**Today's Progress**: 
 
 
 
