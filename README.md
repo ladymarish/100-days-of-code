@@ -130,7 +130,23 @@
 
 ### Day 33: July 28, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Importing SVG best practices
+
+### Day 34: July 29, 2019
+
+**Today's Progress**:
+
+### Day 35: July 30, 2019
+
+**Today's Progress**:
+
+### Day 36: July 31, 2019
+
+**Today's Progress**:
+
+### Day 37: August 1, 2019
+
+**Today's Progress**:
 
 
 
