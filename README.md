@@ -134,21 +134,35 @@
 
 ### Day 34: July 29, 2019
 
-**Today's Progress**:
+**Today's Progress**: Building Latouts with Flexbox
 
 ### Day 35: July 30, 2019
 
-**Today's Progress**:
+**Today's Progress**: Just more of Flexbox
 
 ### Day 36: July 31, 2019
 
-**Today's Progress**:
+**Today's Progress**: FLEXbawks.. 
 
 ### Day 37: August 1, 2019
 
-**Today's Progress**:
+**Today's Progress**: F :clap: L :clap: E :clap: X :clap: B :clap: O :clap: X 
 
+### Day 38: August 2, 2019
 
+**Today's Progress**: just a bit more of Flexbox today 
+
+### Day 39: August 3, 2019
+
+**Today's Progress**: what can be more awesome than Flexbox?
+
+### Day 40: August 4, 2019
+
+**Today's Progress**: why not become a Flexbox expert!
+
+### Day 41: August 5, 2019
+
+**Today's Progress**: wrapping up Flexbox stuff with media queries!
 
 
 
