@@ -172,6 +172,26 @@
 
 **Today's Progress**: CSS Grid and fr unit
 
+### Day 44: August 8, 2019
+
+**Today's Progress**: CSS Grid - Positioning & Spanning
+
+### Day 45: August 9, 2019
+
+**Today's Progress**: 
+
+### Day 45: August 10, 2019
+
+**Today's Progress**: 
+
+### Day 45: August 11, 2019
+
+**Today's Progress**: 
+
+### Day 45: August 12, 2019
+
+**Today's Progress**: 
+
 
 
 
