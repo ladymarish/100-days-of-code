@@ -180,15 +180,23 @@
 
 **Today's Progress**: 
 
-### Day 45: August 10, 2019
+### Day 46: August 10, 2019
 
 **Today's Progress**: 
 
-### Day 45: August 11, 2019
+### Day 47: August 11, 2019
 
 **Today's Progress**: 
 
-### Day 45: August 12, 2019
+### Day 48: August 12, 2019
+
+**Today's Progress**: 
+
+### Day 49: August 13, 2019
+
+**Today's Progress**: 
+
+### Day 50: August 14, 2019
 
 **Today's Progress**: 
 
