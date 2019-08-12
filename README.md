@@ -164,6 +164,14 @@
 
 **Today's Progress**: wrapping up Flexbox stuff with media queries!
 
+### Day 42: August 6, 2019
+
+**Today's Progress**: CSS Grid
+
+### Day 43: August 7, 2019
+
+**Today's Progress**: More of CSS Grid
+
 
 
 
