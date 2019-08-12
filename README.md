@@ -170,7 +170,7 @@
 
 ### Day 43: August 7, 2019
 
-**Today's Progress**: More of CSS Grid
+**Today's Progress**: CSS Grid and fr unit
 
 
 
