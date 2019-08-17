@@ -194,11 +194,11 @@
 
 ### Day 49: August 13, 2019
 
-**Today's Progress**: Building a project with CSS grid
+**Today's Progress**: CSS Grid: auto-fit/auto-fill, min/max
 
 ### Day 50: August 14, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Building a project with CSS grid
 
 ### Day 51: August 15, 2019
 
@@ -209,6 +209,10 @@
 **Today's Progress**: 
 
 ### Day 53: August 17, 2019
+
+**Today's Progress**: 
+
+### Day 54: August 18, 2019
 
 **Today's Progress**: 
 
