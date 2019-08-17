@@ -178,25 +178,37 @@
 
 ### Day 45: August 9, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Naming grid items and areas
 
 ### Day 46: August 10, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Implicit vs Explicit grids
 
 ### Day 47: August 11, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Aligning grid items and tracks
 
 ### Day 48: August 12, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Responsive Grid items 
 
 ### Day 49: August 13, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Building a project with CSS grid
 
 ### Day 50: August 14, 2019
+
+**Today's Progress**: 
+
+### Day 51: August 15, 2019
+
+**Today's Progress**: 
+
+### Day 52: August 16, 2019
+
+**Today's Progress**: 
+
+### Day 53: August 17, 2019
 
 **Today's Progress**: 
 
