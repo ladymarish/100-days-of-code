@@ -206,11 +206,11 @@
 
 ### Day 52: August 16, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Building out sections
 
 ### Day 53: August 17, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Building out the rest of the sections
 
 ### Day 54: August 18, 2019
 
