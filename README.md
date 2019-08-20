@@ -202,7 +202,7 @@
 
 ### Day 51: August 15, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Building the overall layout
 
 ### Day 52: August 16, 2019
 
@@ -216,6 +216,13 @@
 
 **Today's Progress**: 
 
+### Day 54: August 19, 2019
+
+**Today's Progress**: 
+
+### Day 54: August 20, 2019
+
+**Today's Progress**: 
 
 
 
