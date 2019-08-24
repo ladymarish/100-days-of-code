@@ -214,16 +214,31 @@
 
 ### Day 54: August 18, 2019
 
-**Today's Progress**: Building out the rest of the sections
+**Today's Progress**: Building out more sections
 
-### Day 54: August 19, 2019
+### Day 55: August 19, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Building out more sections
 
-### Day 54: August 20, 2019
+### Day 56: August 20, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Building out more sections
 
+### Day 57: August 21, 2019
+
+**Today's Progress**: Building out more sections
+
+### Day 58: August 22, 2019
+
+**Today's Progress**: Building out more sections
+
+### Day 59: August 23, 2019
+
+**Today's Progress**: Adding media queries to the project
+
+### Day 60: August 24, 2019
+
+**Today's Progress**: Finished the course 28-hour Advanced CSS course!!! :boom: :tada: Installing SASS on the personal project
 
 
 
