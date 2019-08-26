@@ -240,6 +240,8 @@
 
 **Today's Progress**: Finished the course 28-hour Advanced CSS course!!! :boom: :tada: Installing SASS on the personal project
 
+### Day 61: August 25, 2019
 
+**Today's Progress**: Updated bio on my personal website, cleaned up CSS 
 
 
