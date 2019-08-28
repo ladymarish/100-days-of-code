@@ -244,4 +244,16 @@
 
 **Today's Progress**: Updated bio on my personal website, cleaned up CSS 
 
+### Day 62: August 26, 2019
+
+**Today's Progress**: Personal website: updated CSS with SASS
+
+### Day 63: August 27, 2019
+
+**Today's Progress**: Personal website: put all the markup into a CSS grid
+
+### Day 64: August 28, 2019
+
+**Today's Progress**: Personal website: updated portolio section
+
 
