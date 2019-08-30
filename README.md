@@ -256,4 +256,12 @@
 
 **Today's Progress**: Personal website: updated portolio section
 
+### Day 65: August 29, 2019
+
+**Today's Progress**: Personal website: more work on the homepage
+
+### Day 66: August 30, 2019
+
+**Today's Progress**: Personal website: building out secondary pages
+
 
