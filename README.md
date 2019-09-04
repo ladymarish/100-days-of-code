@@ -264,4 +264,24 @@
 
 **Today's Progress**: Personal website: building out secondary pages
 
+### Day 67: August 31, 2019
+
+**Today's Progress**: Case study one
+
+### Day 68: September 1, 2019
+
+**Today's Progress**: Case study one
+
+### Day 69: September 2, 2019
+
+**Today's Progress**: Case study one
+
+### Day 70: September 3, 2019
+
+**Today's Progress**: Case study two
+
+### Day 71: September 4, 2019
+
+**Today's Progress**: Case study two
+
 
