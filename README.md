@@ -284,4 +284,20 @@
 
 **Today's Progress**: Case study two
 
+### Day 72: September 5, 2019
+
+**Today's Progress**: Case study three
+
+### Day 73: September 4, 2019
+
+**Today's Progress**: Case study three
+
+### Day 74: September 5, 2019
+
+**Today's Progress**: Case study three
+
+### Day 75: September 6, 2019
+
+**Today's Progress**: Responsive styles
+
 
