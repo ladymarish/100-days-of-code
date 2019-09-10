@@ -288,27 +288,23 @@
 
 **Today's Progress**: Case study three
 
-### Day 73: September 4, 2019
+### Day 73: September 6, 2019
 
 **Today's Progress**: Case study three
 
-### Day 74: September 5, 2019
+### Day 74: September 7, 2019
 
 **Today's Progress**: Case study three
 
-### Day 75: September 6, 2019
+### Day 75: September 8, 2019
 
 **Today's Progress**: Made my website responsive
 
-### Day 76: September 7, 2019
+### Day 76: September 9, 2019
 
 **Today's Progress**: Case study four
 
-### Day 77: September 8, 2019
-
-**Today's Progress**: Case study four
-
-### Day 78: September 9, 2019
+### Day 77: September 9, 2019
 
 **Today's Progress**: Case study four
 
