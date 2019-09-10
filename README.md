@@ -304,4 +304,13 @@
 
 **Today's Progress**: Case study four
 
+### Day 77: September 8, 2019
+
+**Today's Progress**: Case study four
+
+### Day 78: September 9, 2019
+
+**Today's Progress**: Case study four
+
+
 
