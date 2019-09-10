@@ -298,6 +298,10 @@
 
 ### Day 75: September 6, 2019
 
-**Today's Progress**: Responsive styles
+**Today's Progress**: Made my website responsive
+
+### Day 76: September 7, 2019
+
+**Today's Progress**: Case study four
 
 
